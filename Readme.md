@@ -1,21 +1,21 @@
 Examples of how to code using React-Native.
 
-App.js - Initialize app / Navigation config
+[App.js](App.js) - Initialize app / Navigation config
 
-ComponentsScreen - Simple screen component example
+[ComponentsScreen](./src/screens/ComponentsScreen.js) - Simple screen component example
 
-HomeScreen - Example of home screen with many buttons
+[HomeScreen](src/screens/HomeScreen.js) - Example of home screen with many buttons
 
-Box screen - Example of layouting
+[BoxScreen](src/screens/BoxScreen.js) - Example of layouting
 
-ListScreen - Example using FlatList component
+[ListScreen](src/screens/ListScreen.js) - Example using FlatList component
 
-InputsScreen - Example with TextInput components
+[InputsScreen](src/screens/InputsScreen.js) - Example with TextInput components
 
-ImageScreen - Example using Image component
+[ImageScreen](src/screens/ImageScreen.js) - Example using Image component
 
-CounterScreen - Example using useState
+[CounterScreen](src/screens/CounterScreen.js) - Example using useState
 
-ColorScreen - Another Example using useState
+[ColorScreen](src/screens/ColorScreen.js) - Another Example using useState
 
-SquareScreen - Exemple using useReducer
+[SquareScreen](src/screens/SquareScreen.js) - Exemple using useReducer
